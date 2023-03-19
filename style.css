@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Crushed&display=swap');
+
 
 
 
@@ -32,13 +33,13 @@ main {
 }
 
 h1 {
-    font-family: 'Megrim', cursive;
+    font-family: 'Crushed', cursive;
     margin-left: 52vh;
     margin-top: 15vh;
 }
 
 h2 {
-    font-family: 'Megrim', cursive;
+    font-family: 'Crushed', cursive;
     position: fixed;
     margin-left: 45vh;
 
@@ -65,7 +66,7 @@ nav {
     justify-content: space-between;
     margin-left: 10%;
     padding: 0px;
-    font-family: 'Megrim', cursive;
+    font-family: 'Crushed', cursive;
     font-weight: bold;
     position: fixed;
     bottom: 0;
@@ -108,7 +109,7 @@ nav ul li a:hover{
     margin-top: 60px;
     font-size: 40px;
     padding: 50px;
-    font-family: 'Megrim', cursive;
+    font-family: 'Crushed', cursive;
     
     
     
@@ -122,7 +123,7 @@ nav ul li a:hover{
      text-align: center;
      text-decoration: none;
      margin-top: 35%;
-     font-family: 'Megrim', cursive;
+     font-family: 'Crushed', cursive;
 
 
 }
@@ -150,4 +151,3 @@ a:-webkit-any-link {
     width: 2em;
     height: 2em;
 }
-
